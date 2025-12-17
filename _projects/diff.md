@@ -6,7 +6,7 @@ technologies: [Solidworks, Ansys]
 image: /assets/images/diffcasing.png
 ---
 
-[Download a PDF of the report here:] ({{ "/assets/jbn56_zes5_Senior_Design_2025.pdf" | relative_url }})
+[Download a PDF of the report here:]({{ "/assets/jbn56_zes5_Senior_Design_2025.pdf" | relative_url }})
 
 This project focused on the design and validation of a lightweight custom front differential casing for the Cornell Baja SAE TG22 vehicle. With the increasing competitiveness of Baja SAE and the effective requirement for four-wheel drive, minimizing driveline mass and rotational inertia became a key vehicle-level objective. The existing front differential, adapted from a Porsche 996 limited-slip unit, delivered strong vehicle dynamics but was significantly overbuilt for Baja SAE usage. In particular, the OEM 8620 steel casing contributed substantial rotational mass, increasing frictional losses and shock loading on upstream drivetrain components. The goal of this project was therefore to redesign the differential casing to reduce mass while preserving durability, stiffness, and vehicle handling performance.
 
